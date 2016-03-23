@@ -1,2 +1,4 @@
 # hello-world
-genius
+
+hi human
+  my name is maxwell amuzu,am made of java codes and visual basic. 
